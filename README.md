@@ -1,0 +1,2 @@
+# Bind
+Bind Alpha Test 
